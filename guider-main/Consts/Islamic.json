@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "full_name": "Mizanur Rahman Azhari",
+    "email": "blatehouse0@about.me",
+    "gender": "Male",
+    "image": "https://i.postimg.cc/Hn7RFFjY/Mizanur-Rahman-Azhari-new-photo-2021.jpg",
+    "duration": 30,
+    "price": 1394,
+    "category": "Islamic Scholar",
+    "designation": "Islamic Scholar"
+  }, {
+    "id": 2,
+    "full_name": "Sheikh Ahmadulla",
+    "email": "bashwell1@desdev.cn",
+    "gender": "Male",
+    "image": "https://i.postimg.cc/sx7KYhTm/ahmadullah-20210205093608.webp",
+    "duration": 30,
+    "price": 1290,
+    "category": "Islamic Scholar",
+    "designation": "Islamic Scholar"
+  }, {
+    "id": 3,
+    "full_name": "Muhammad Adnan",
+    "email": "wemmanuel2@g.co",
+    "gender": "Male",
+    "image": "https://i.postimg.cc/pXyLLJ1K/download.jpg",
+    "duration": 30,
+    "price": 1099,
+    "category": "Islamic Scholar",
+    "designation": "Islamic Scholar"
+  }, {
+    "id": 4,
+    "full_name": " Mufti Menk",
+    "email": "lrosenbaum3@fema.gov",
+    "gender": "Male",
+    "image": "https://i.postimg.cc/zGKbqkV0/JR6-X6t-OB-400x400.jpg",
+    "duration": 30,
+    "price": 1294,
+    "category": "Islamic Scholar",
+    "designation": "Islamic Scholar"
+  }
+  ]

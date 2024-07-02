@@ -1,0 +1,42 @@
+[{
+  "id": 1,
+  "full_name": "Shakib Al Hasan",
+  "email": "blatehouse0@about.me",
+  "gender": "Male",
+  "image": "https://i.ibb.co/FgQLvND/download.jpg",
+  "duration": 30,
+  "price": 1394,
+  "category": "Sport",
+  "designation": "National Cricketer"
+}, {
+  "id": 2,
+  "full_name": "Tamim Iqbal",
+  "email": "bashwell1@desdev.cn",
+  "gender": "Male",
+  "image": "https://i.ibb.co/vhkDm68/342.jpg",
+  "duration": 30,
+  "price": 1290,
+  "category": "Sport",
+  "designation": "National Cricketer"
+}, {
+  "id": 3,
+  "full_name": "Mashrafi Bin Mortaza",
+  "email": "wemmanuel2@g.co",
+  "gender": "Male",
+  "image": "https://i.ibb.co/0DwtvnT/Mashrafe-Mortaza-wt20-new.png",
+  "duration": 30,
+  "price": 1099,
+  "category": "Sport",
+  "designation": "National Cricketer"
+}, {
+  "id": 4,
+  "full_name": "Mushfiqur Rahim",
+  "email": "lrosenbaum3@fema.gov",
+  "gender": "Male",
+  "image": "https://i.ibb.co/X2pRpKc/mushfiqur-rahim.webp",
+  "duration": 30,
+  "price": 1294,
+  "category": "Sport",
+  "designation": "National Cricketer"
+}
+]

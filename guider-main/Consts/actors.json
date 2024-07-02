@@ -1,0 +1,53 @@
+[
+    {
+        "id": 5,
+        "full_name": "Chanchal Chowdhury",
+        "email": "kmoss4@ocn.ne.jp",
+        "gender": "Male",
+        "image": "https://i.ibb.co/y6SY5mY/Chanchal-Chowdhury-Wiki-Age-Height-Family-Biography-Wife-More.jpg",
+        "duration": 30,
+        "price": 1229,
+        "category": "Acting",
+        "designation": "Actor"
+      }, {
+        "id": 6,
+        "full_name": "Ziaul Faruq Apurba",
+        "email": "silott5@bbc.co.uk",
+        "gender": "Male",
+        "image": "https://i.ibb.co/7XVZf0G/Ziaul-Faruq-Apurba-Photo.jpg",
+        "duration": 30,
+        "price": 889,
+        "category": "Acting",
+        "designation": "Model and Actor"
+      }, {
+        "id": 7,
+        "full_name": "Afran Nisha",
+        "email": "lwattam6@angelfire.com",
+        "gender": "Male",
+        "image": "https://i.ibb.co/n33yQyn/Afran-Nisho-wiki.webp",
+        "duration": 30,
+        "price": 1368,
+        "category": "Acting",
+        "designation": "Model and actor"
+      }, {
+        "id": 8,
+        "full_name": "Mehazabien Chowdhury",
+        "email": "bover7@nifty.com",
+        "gender": "Female",
+        "image": "https://i.ibb.co/KsKJh2Z/d32923904092ac533865fbb8f2e9ddc5.jpg",
+        "duration": 30,
+        "price": 1117,
+        "category": "Acting",
+        "designation": "Actress and model"
+      }, {
+        "id": 9,
+        "full_name": "Tanjin Tisha",
+        "email": "caicheson8@paginegialle.it",
+        "gender": "Female",
+        "image": "https://i.ibb.co/Smc3dZ7/images.jpg",
+        "duration": 30,
+        "price": 505,
+        "category": "Acting",
+        "designation": "Actress and model"
+      }
+]
